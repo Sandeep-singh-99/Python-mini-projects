@@ -1,0 +1,1 @@
+Key.caps_lock a Key.caps_lock s d f Key.ctrl_l Key.ctrl_l Key.ctrl_l Key.ctrl_l Key.ctrl_l Key.ctrl_l Key.ctrl_l Key.ctrl_l \x03 Key.media_volume_up Key.media_volume_up Key.right Key.right Key.right Key.right Key.right Key.right Key.right Key.right Key.right Key.right Key.right 
